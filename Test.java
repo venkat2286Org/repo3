@@ -1,4 +1,5 @@
 
+@RestController
 public class Test {
 
 
